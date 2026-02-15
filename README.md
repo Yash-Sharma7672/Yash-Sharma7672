@@ -5,6 +5,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=6000&pause=2000&color=0366D6&center=true&vCenter=true&width=950&lines=Design+Scalable+Cloud+Infrastructure+%26+Automation+Systems" alt="Typing SVG" />
 </p>
 
+<!-- Professional Content -->
+<p align="center" style="font-size:18px; color:#0366D6; font-weight:500;">
+  Cloud Engineer | DevOps Enthusiast | Microservices Developer
+</p>
+
+<!-- Typing SVG Here -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=6000&pause=2000&color=0366D6&center=true&vCenter=true&width=950&lines=Design+Scalable+Cloud+Infrastructure+%26+Automation+Systems" alt="Typing SVG" />
+</p>
+
 
 ## 🚀 About Me
 
