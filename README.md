@@ -1,6 +1,16 @@
 <h1 align="center">Hi, I'm Yash 👋</h1>
 
 <!-- Professional Content -->
+<!-- Professional Title -->
+<p align="center" 
+   style="font-size: 20px; 
+          font-weight: 600; 
+          letter-spacing: 1px; 
+          color: #1F3B6C; 
+          margin-bottom: 15px;">
+  AWS Solution Architect | DevOps Enthusiast | Python Engineer
+</p>
+
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=2000&width=900&center=true&vCenter=true&lines=Design+Cloud+Architectures;DevOps+Engineering;Python+Developer" 
