@@ -23,20 +23,20 @@ Passionate about building reliable, secure, and high-performance systems that sc
 
 ## 🛠️ Tech Stack
 
-
 ### 💻 Languages & Frameworks
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,javascript,html,css" />
 </p>
 
 ### ☁️ Cloud & DevOps
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,gitlab,terraform,ansible" />
 </p>
 
 ### 🗄️ Databases & Monitoring
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prometheus,grafana,elasticsearch" />
 </p>
+
 
 
