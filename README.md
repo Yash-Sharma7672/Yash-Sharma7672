@@ -69,6 +69,9 @@ Passionate about building reliable, secure, and high-performance systems that sc
   <img src="https://activity-graph.herokuapp.com/graph?username=amitpatel07&theme=react-dark&hide_border=true" />
 </p>
 
+## 📈 Activity Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash-sharma&theme=github)](https://github.com/yash-sharma)
 
 ## 🌐 Connect With Me
 
@@ -81,9 +84,5 @@ Passionate about building reliable, secure, and high-performance systems that sc
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
-## 📈 Activity Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash-sharma&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
