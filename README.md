@@ -1,10 +1,9 @@
-<h1 align="center">Hi, I'm Amit Patel 👋</h1>
+<h1 align="center">Hi, I'm Yash 👋</h1>
 
 <!-- Typing SVG Here -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=1500&color=0366D6&center=true&vCenter=true&width=900&lines=Designing+Scalable+Cloud+Infrastructure+%26+Automation+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=6000&pause=2000&color=0366D6&center=true&vCenter=true&width=950&lines=Designing+Scalable+Cloud+Infrastructure+%26+Automation+Systems" alt="Typing SVG" />
 </p>
-
 
 
 ## 🚀 About Me
