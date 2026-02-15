@@ -97,6 +97,6 @@ Passionate about building reliable, secure, and high-performance systems that sc
     <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect"/>
   </a>
   <span>
-    <img src="https://img.shields.io/badge/Email-mail.yashsharma07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-mail.yashsharma07&#64;gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </span>
 </p>
