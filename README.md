@@ -53,6 +53,7 @@ Cloud Engineer with hands-on experience in architecting scalable cloud environme
 
 <!-- Prominent separator line -->
 <hr style="border: 2px solid #2F4F4F; width: 80%; margin: 30px auto;" />
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -77,6 +78,7 @@ Cloud Engineer with hands-on experience in architecting scalable cloud environme
 
 <!-- Prominent separator line -->
 <hr style="border: 2px solid #2F4F4F; width: 80%; margin: 30px auto;" />
+
 ## 📈 Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash-sharma&theme=github)
@@ -84,6 +86,7 @@ Cloud Engineer with hands-on experience in architecting scalable cloud environme
 
 <!-- Prominent separator line -->
 <hr style="border: 2px solid #2F4F4F; width: 80%; margin: 30px auto;" />
+
 ## 🌐 Connect With Me
 <!-- LinkedIn Button on first row -->
 <p align="center">
