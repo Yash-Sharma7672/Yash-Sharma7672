@@ -5,9 +5,7 @@
   Cloud Solution Architect | DevOps & Automation | Python Developer
 </p>
 <!-- Typing SVG with Blue Text -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=8000&pause=1500&color=0366D6&center=true&vCenter=true&width=950&lines=Design+Cloud+Architectures;DevOps+Engineering;Python+Developer" alt="Typing SVG" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Design+Cloud+Architectures;DevOps+Engineering;Python+Developer" alt="Typing SVG" /></a>
 <!-- Prominent separator line -->
 <hr style="border: 2px solid #2F4F4F; width: 80%; margin: 30px auto;" />
 
