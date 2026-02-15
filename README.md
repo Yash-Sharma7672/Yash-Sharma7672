@@ -87,28 +87,6 @@ Passionate about building reliable, secure, and high-performance systems that sc
   </a>
 </p>
 
-## 🌐 Connect With Me
 
-<p align="center">
-  <!-- LinkedIn Button -->
-  <a href="https://www.linkedin.com/in/yash-sharma-2aa849231" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <!-- Connect Button -->
-  <a href="https://www.linkedin.com/in/yash-sharma-2aa849231" target="_blank">
-    <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect"/>
-  </a>
-  &nbsp;&nbsp;
-  <!-- Email Button -->
-  <a href="mailto:yashsharma07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <!-- Mail Button -->
-  <a href="mailto:yashsharma07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/>
-  </a>
-</p>
 
 
