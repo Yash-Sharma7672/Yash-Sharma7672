@@ -11,12 +11,26 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=8000&pause=1500&color=1F3B6C&center=true&vCenter=true&width=950&lines=Design+Cloud+Architectures;DevOps+Engineering;Python+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=9000&pause=2500&color=2F4F4F&center=true&vCenter=true&width=950&lines=Design+Cloud+Architectures;DevOps+Engineering;Python+Developer" alt="Typing SVG" />
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=9000&pause=2500&color=1F3B6C&center=true&vCenter=true&width=950&lines=Design+Cloud+Architectures;DevOps+Engineering;Python+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=8000&pause=1500&color=008080&center=true&vCenter=true&width=950&lines=Design+Cloud+Architectures;DevOps+Engineering;Python+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=9000&pause=2500&color=008080&center=true&vCenter=true&width=950&lines=Design+Cloud+Architectures;DevOps+Engineering;Python+Developer" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=9000&pause=2500&color=36454F&center=true&vCenter=true&width=950&lines=Design+Cloud+Architectures;DevOps+Engineering;Python+Developer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=9000&pause=2500&color=006400&center=true&vCenter=true&width=950&lines=Design+Cloud+Architectures;DevOps+Engineering;Python+Developer" alt="Typing SVG" />
+</p>
+
 
 ## 🚀 About Me
 
