@@ -71,7 +71,7 @@ Passionate about building reliable, secure, and high-performance systems that sc
 
 ## 📈 Yash Sharma's Contributions Graph
 
-![GitHub Contributions](https://contributions.okcode.club/api?username=Yash-Sharma7672)
+![GitHub Stats](https://gitmystat.vercel.app/api?username=Yash-Sharma7672)
 
 
 ## 🌐 Connect With Me
