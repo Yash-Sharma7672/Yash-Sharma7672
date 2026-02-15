@@ -2,9 +2,8 @@
 
 <!-- Professional Gradient Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=6000&pause=2000&color=036564;2F4F4F&center=true&vCenter=true&width=950&lines=Resilient+•+Cost-Optimized+•+High-Performance;Designing+Scalable+•+Reliable+Cloud+Systems;Building+Efficient+•+High-Performance+Architectures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=6000&pause=1500&color=036564;2F4F4F&center=true&vCenter=true&width=950&lines=Design+Resilient+Architectures;Cost-optimized+Architectures;High+Performance+Architectures" alt="Typing SVG" />
 </p>
-
 
 <!-- Professional Content -->
 <p align="center" style="font-size:18px; color:#0366D6; font-weight:500;">
@@ -13,7 +12,7 @@
 
 <!-- Professional Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=6000&pause=2000&color=2F4F4F&center=true&vCenter=true&width=950&lines=Resilient+•+Cost-Optimized+•+High-Performance;Designing+Scalable+•+Reliable+Cloud+Systems;Building+Efficient+•+High-Performance+Architectures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=6000&pause=2000&color=2F4F4F&center=true&vCenter=true&width=950&lines=Design+•+Resilient+•+Architectures;Design+Highly+•+Available+Architectures+Systems;Building+Efficient+•+High-Performance+Architectures" alt="Typing SVG" />
 </p>
 
 
