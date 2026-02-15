@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-Cloud Engineer with hands-on experience in architecting scalable cloud environments and implementing DevOps best practices.I specialize in designing cloud-native infrastructure, automating deployment pipelines, and developing Python-based tooling to streamline engineering workflows.Passionate about building reliable, secure, and high-performance systems that scale efficiently in distributed environments.
+Cloud Engineer with hands-on experience in architecting scalable cloud environments and implementing DevOps best practices. I specialize in designing cloud-native infrastructure, automating deployment pipelines, and developing Python-based tooling to streamline engineering workflows.Passionate about building reliable, secure, and high-performance systems that scale efficiently in distributed environments.
 
  Open to remote and global opportunities
 
