@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Yash 👋</h1>
 
-<!-- Professional Gradient Typing SVG - Purple -->
+<!-- Solid Professional Color - Dark Gray -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=5000&pause=1500&color=4B0082;283593&center=true&vCenter=true&width=950&lines=Design+Cloud+Architectures;DevOps+Engineering;Python+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=5000&pause=1500&color=2F4F4F&center=true&vCenter=true&width=950&lines=Design+Cloud+Architectures;DevOps+Engineering;Python+Developer" alt="Typing SVG" />
 </p>
+
 
 
 
