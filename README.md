@@ -106,11 +106,10 @@ Cloud Engineer with hands-on experience in architecting scalable cloud environme
     <img src="https://img.shields.io/badge/Email-mail.yashsharma07&#64;gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </span>
 </p>
-<!-- GitHub Badge (non-clickable) -->
+<!-- GitHub Button (non-clickable) -->
 <p align="center">
   <span>
-    <img src="https://img.shields.io/badge/GitHub-YashSharma07-2F4F4F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/GitHub-YashSharma07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </span>
 </p>
-
 
