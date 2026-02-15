@@ -1,7 +1,7 @@
-<h3 align="center">Hi, I'm Yash 👋</h3>
+<h1 align="center">Hi, I'm Yash 👋</h1>
 
 <!-- Professional Content -->
-<p align="center" style="font-size:18px; color:#2F4F4F; font-weight:600;">
+<p align="center" style="font-size:20px; color:#2F4F4F; font-weight:700;">
   Cloud Solution Architect | DevOps & Automation | Python Developer
 </p>
 
