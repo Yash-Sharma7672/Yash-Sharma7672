@@ -10,6 +10,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=8000&pause=1500&color=2F4F4F&center=true&vCenter=true&width=950&lines=Design+Cloud+Architectures;DevOps+Engineering;Python+Developer" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=8000&pause=1500&color=1F3B6C&center=true&vCenter=true&width=950&lines=Design+Cloud+Architectures;DevOps+Engineering;Python+Developer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=8000&pause=1500&color=008080&center=true&vCenter=true&width=950&lines=Design+Cloud+Architectures;DevOps+Engineering;Python+Developer" alt="Typing SVG" />
+</p>
+
 ## 🚀 About Me
 
 Cloud Engineer with hands-on experience in architecting scalable cloud environments and implementing DevOps best practices. I specialize in designing cloud-native infrastructure, automating deployment pipelines, and developing Python-based tooling to streamline engineering workflows.Passionate about building reliable, secure, and high-performance systems that scale efficiently in distributed environments.
