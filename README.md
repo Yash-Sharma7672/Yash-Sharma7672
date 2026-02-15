@@ -2,7 +2,7 @@
 
 <!-- Typing SVG Here -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=6000&pause=2000&color=0366D6&center=true&vCenter=true&width=950&lines=Designing+Scalable+Cloud+Infrastructure+%26+Automation+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=6000&pause=2000&color=0366D6&center=true&vCenter=true&width=950&lines=Design+Scalable+Cloud+Infrastructure+%26+Automation+Systems" alt="Typing SVG" />
 </p>
 
 
@@ -16,6 +16,27 @@ Passionate about building reliable, secure, and high-performance systems that sc
 
 🌍 Based in India | Open to remote and global opportunities
 
+🔭 Architecting cloud-native and automation-driven solutions  
+🌱 Advancing expertise in AI, DevOps, and distributed systems
+⚙️ Building scalable, reliable, and secure infrastructure   
+⚙️ Automating workflows using Python and modern DevOps toolchains
 
+## 🛠️ Tech Stack
+
+
+### 💻 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,javascript,html,css" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,gitlab,terraform,ansible" />
+</p>
+
+### 🗄️ Databases & Monitoring
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prometheus,grafana,elasticsearch" />
+</p>
 
 
