@@ -24,6 +24,7 @@ Cloud Engineer with hands-on experience in architecting scalable cloud environme
 
 <!-- Separator line between About Me and Tech Stack -->
 <hr style="border: 2px solid #2F4F4F; width: 80%; margin: 30px auto;" />
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Frameworks
