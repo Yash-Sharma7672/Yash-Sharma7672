@@ -1,7 +1,8 @@
-<h1 align="center">Hi, I'm Yash 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=0366D6&center=true&vCenter=true&width=700&lines=Cloud+Engineer;DevOps+%26+Python+Developer;Cloud+Architect" alt="Professional Typing SVG" />
-</p>
+<h1 align="center">Hi, I'm Amit Patel 👋</h1>
+
+<!-- Typing SVG Here -->
+
+<h3 align="center">Designing Scalable Cloud Infrastructure & Automation Systems</h3>
 
 
 
