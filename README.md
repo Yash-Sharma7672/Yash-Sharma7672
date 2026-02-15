@@ -71,7 +71,7 @@ Passionate about building reliable, secure, and high-performance systems that sc
 
 ## 📈 Activity Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash-sharma&theme=github)](https://github.com/yash-sharma)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash-sharma7672&theme=github)](https://github.com/yash-sharma)
 
 ## 🌐 Connect With Me
 
