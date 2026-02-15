@@ -10,6 +10,11 @@
   AWS Solution Architect | DevOps Enthusiast | Python Engineer
 </p>
 
+<!-- Professional Content -->
+<p align="center" style="font-size:18px; color:#2F4F4F; font-weight:600;">
+  Cloud Solution Architect | DevOps & Automation | Python Developer
+</p>
+
 ## 🚀 About Me
 
 Cloud Engineer with hands-on experience in architecting scalable cloud environments and implementing DevOps best practices.
