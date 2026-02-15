@@ -71,8 +71,7 @@ Passionate about building reliable, secure, and high-performance systems that sc
 
 ## 📈 Yash Sharma’s GitHub Contribution Graph
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash-Sharma7672&show_icons=true&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash-sharma&theme=github)
 
 
 
