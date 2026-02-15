@@ -2,8 +2,9 @@
 
 <!-- Professional Gradient Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=6000&pause=1500&color=036564;2F4F4F&center=true&vCenter=true&width=950&lines=Design+Resilient+Architectures;Cost-optimized+Architectures;High+Performance+Architectures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=5000&pause=1500&color=036564;2F4F4F&center=true&vCenter=true&width=950&lines=Design+Cloud+Architectures;DevOps+Engineering;Python+Developer" alt="Typing SVG" />
 </p>
+
 
 <!-- Professional Content -->
 <p align="center" style="font-size:18px; color:#0366D6; font-weight:500;">
