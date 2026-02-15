@@ -21,21 +21,18 @@ Passionate about building reliable, secure, and high-performance systems that sc
 ⚙️ Building scalable, reliable, and secure infrastructure   
 ⚙️ Automating workflows using Python and modern DevOps toolchains
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,javascript,html,css" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,javascript" />
 </p>
 
-### ☁️ Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,gitlab,terraform,ansible" />
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform" />
 </p>
 
-### 🗄️ Databases & Monitoring
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prometheus,grafana,elasticsearch" />
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prometheus,grafana" />
 </p>
 
 
