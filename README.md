@@ -69,9 +69,9 @@ Passionate about building reliable, secure, and high-performance systems that sc
   <img src="https://activity-graph.herokuapp.com/graph?username=amitpatel07&theme=react-dark&hide_border=true" />
 </p>
 
-## 📈 Activity Graph
+## 📈 GitHub Activity Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash-sharma7672&theme=github)](https://github.com/yash-sharma)
+![GitHub Contributions](https://gh-contributions.vercel.app/api?username=Yash-Sharma7672)
 
 ## 🌐 Connect With Me
 
