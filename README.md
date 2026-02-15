@@ -69,18 +69,13 @@ Passionate about building reliable, secure, and high-performance systems that sc
   <img src="https://activity-graph.herokuapp.com/graph?username=amitpatel07&theme=react-dark&hide_border=true" />
 </p>
 
----
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yash-sharma-2aa849231" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mail.yashsharma07@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-sharma-2aa849231)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashsharma07@email.com)
+
 
 
 
