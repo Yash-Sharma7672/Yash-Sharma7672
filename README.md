@@ -1,24 +1,13 @@
 <h1 align="center">Hi, I'm Yash 👋</h1>
 
 <!-- Professional Content -->
-<p align="center" style="font-size:20px; color:#2F4F4F; font-weight:700;">
-  Cloud Solution Architect | DevOps & Automation | Python Developer
-</p>
-<!-- Typing SVG with Blue Text -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Design+Cloud+Architectures;DevOps+Engineering;Python+Developer" alt="Typing SVG" /></a>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Design+Cloud+Architectures;DevOps+Engineering;Python+Developer" alt="Typing SVG" />
-  </a>
-</p>
-
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&center=true&vCenter=true&lines=Design+Cloud+Architectures;DevOps+Engineering;Python+Developer" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=2000&width=900&center=true&vCenter=true&lines=Design+Cloud+Architectures;DevOps+Engineering;Python+Developer" 
     alt="Typing SVG" 
   />
 </p>
+
 <!-- Prominent separator line -->
 <hr style="border: 2px solid #2F4F4F; width: 80%; margin: 30px auto;" />
 
