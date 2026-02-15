@@ -22,6 +22,8 @@ Cloud Engineer with hands-on experience in architecting scalable cloud environme
 - ⚙️ Building scalable, reliable, and secure infrastructure
 - ⚙️ Automating workflows using Python and modern DevOps toolchains
 
+<!-- Prominent separator line -->
+<hr style="border: 2px solid #2F4F4F; width: 80%; margin: 30px auto;" />
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Frameworks
@@ -48,6 +50,8 @@ Cloud Engineer with hands-on experience in architecting scalable cloud environme
 </p>
 
 
+<!-- Prominent separator line -->
+<hr style="border: 2px solid #2F4F4F; width: 80%; margin: 30px auto;" />
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -70,11 +74,15 @@ Cloud Engineer with hands-on experience in architecting scalable cloud environme
   <img src="https://activity-graph.herokuapp.com/graph?username=amitpatel07&theme=react-dark&hide_border=true" />
 </p>
 
+<!-- Prominent separator line -->
+<hr style="border: 2px solid #2F4F4F; width: 80%; margin: 30px auto;" />
 ## 📈 Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash-sharma&theme=github)
 
 
+<!-- Prominent separator line -->
+<hr style="border: 2px solid #2F4F4F; width: 80%; margin: 30px auto;" />
 ## 🌐 Connect With Me
 <!-- LinkedIn Button on first row -->
 <p align="center">
