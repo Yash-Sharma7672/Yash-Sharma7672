@@ -91,4 +91,26 @@ Cloud Engineer with hands-on experience in architecting scalable cloud environme
   </span>
 </p>
 
+-----------------------
+<!-- GitHub Button on first row -->
+<p align="center">
+  <a href="https://github.com/YashSharma07" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-YashSharma07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
+</p>
+
+<!-- LinkedIn Button on second row -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/yash-sharma-2aa849231" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect"/>
+  </a>
+</p>
+
+<!-- Email Button on third row (non-clickable) -->
+<p align="center">
+  <span>
+    <img src="https://img.shields.io/badge/Email-mail.yashsharma07&#64;gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </span>
+</p>
+
 
