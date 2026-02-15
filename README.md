@@ -72,12 +72,6 @@ Passionate about building reliable, secure, and high-performance systems that sc
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-sharma-2aa849231)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=mail.yashsharma07@email.com)
-
-## 🌐 Connect With Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-sharma-2aa849231" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -88,5 +82,8 @@ Passionate about building reliable, secure, and high-performance systems that sc
   </a>
 </p>
 
+## 📈 Activity Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash-sharma&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
