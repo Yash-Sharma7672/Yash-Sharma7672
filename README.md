@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yash 👋</h1>
+<h2 align="center">Hi, I'm Yash 👋</h2>
 
 <!-- Professional Content -->
 <p align="center" style="font-size:18px; color:#2F4F4F; font-weight:600;">
