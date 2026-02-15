@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Yash 👋</h1>
-<<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Cloud+Engineer;DevOps+%26+Python+Developer;Cloud+Architect" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=0366D6&center=true&vCenter=true&width=700&lines=Cloud+Engineer;DevOps+%26+Python+Developer;Cloud+Architect" alt="Professional Typing SVG" />
 </p>
+
 
 
 ## 🚀 About Me
