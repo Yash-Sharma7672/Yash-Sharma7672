@@ -25,7 +25,7 @@ Passionate about building reliable, secure, and high-performance systems that sc
 
 ### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django" />
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs" />
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -47,4 +47,8 @@ Passionate about building reliable, secure, and high-performance systems that sc
 </p>
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amitpatel07&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitpatel07&theme=tokyonight" />
+</p>
 
