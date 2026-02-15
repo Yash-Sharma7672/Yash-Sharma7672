@@ -8,14 +8,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=8000&pause=1500&color=0366D6&center=true&vCenter=true&width=950&lines=Design+Cloud+Architectures;DevOps+Engineering;Python+Developer" alt="Typing SVG" />
 </p>
-<p align="center" 
-   style="letter-spacing: 1.5px; 
-          font-weight: 500; 
-          font-size: 22px; 
-          color: #0366D6;">
-  Design Cloud Architectures<br>
-  DevOps Engineering<br>
-  Python Developer
+<!-- Typing SVG using demolab (recommended) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=8000&pause=1500&color=0366D6&center=true&vCenter=true&width=950&lines=Design+Cloud+Architectures;DevOps+Engineering;Python+Developer" alt="Typing SVG" />
 </p>
 <!-- Prominent separator line -->
 <hr style="border: 2px solid #2F4F4F; width: 80%; margin: 30px auto;" />
