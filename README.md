@@ -14,7 +14,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Design+Cloud+Architectures;DevOps+Engineering;Python+Developer" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&center=true&vCenter=true&lines=Design+Cloud+Architectures;DevOps+Engineering;Python+Developer" 
+    alt="Typing SVG" 
+  />
 </p>
 <!-- Prominent separator line -->
 <hr style="border: 2px solid #2F4F4F; width: 80%; margin: 30px auto;" />
