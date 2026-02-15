@@ -8,9 +8,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=8000&pause=1500&color=0366D6&center=true&vCenter=true&width=950&lines=Design+Cloud+Architectures;DevOps+Engineering;Python+Developer" alt="Typing SVG" />
 </p>
-<!-- Typing SVG - safe version with blue color -->
-<p align="center" style="margin-bottom: 40px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=9000&pause=1500&color=0366D6&center=true&vCenter=true&width=950&lines=Design Cloud Infrastructure;DevOps Engineering;Python Developer" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=9000&pause=1500&color=0366D6&center=true&vCenter=true&width=1000&lines=Design%20Cloud%20Infrastructure;DevOps%20Engineering;Python%20Developer" />
 </p>
 <!-- Prominent separator line -->
 <hr style="border: 2px solid #2F4F4F; width: 80%; margin: 30px auto;" />
