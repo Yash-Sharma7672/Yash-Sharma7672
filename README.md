@@ -8,9 +8,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=8000&pause=1500&color=0366D6&center=true&vCenter=true&width=950&lines=Design+Cloud+Architectures;DevOps+Engineering;Python+Developer" alt="Typing SVG" />
 </p>
-<!-- Typing SVG with Blue Text and extra word spacing -->
+<!-- Typing SVG with blue text and extra word spacing -->
 <p align="center" style="margin-bottom: 40px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=8000&pause=1500&color=0366D6&center=true&vCenter=true&width=950&lines=Design%20%20Cloud%20%20Infrastructure;DevOps%20%20Engineering;Python%20%20Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=8000&pause=1500&color=0366D6&center=true&vCenter=true&width=950&lines=Design&nbsp;&nbsp;Cloud&nbsp;&nbsp;Infrastructure;DevOps&nbsp;&nbsp;Engineering;Python&nbsp;&nbsp;Developer" alt="Typing SVG" />
 </p>
 <!-- Prominent separator line -->
 <hr style="border: 2px solid #2F4F4F; width: 80%; margin: 30px auto;" />
