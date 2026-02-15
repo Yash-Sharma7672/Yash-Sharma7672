@@ -109,7 +109,7 @@ Cloud Engineer with hands-on experience in architecting scalable cloud environme
 <!-- GitHub Badge (non-clickable) -->
 <p align="center">
   <span>
-    <img src="https://img.shields.io/badge/GitHub-YashSharma07-#008080?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/GitHub-YashSharma07-#2F4F4F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </span>
 </p>
 
