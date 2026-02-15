@@ -69,9 +69,9 @@ Passionate about building reliable, secure, and high-performance systems that sc
   <img src="https://activity-graph.herokuapp.com/graph?username=amitpatel07&theme=react-dark&hide_border=true" />
 </p>
 
-## 📈 Yash Sharma's Contributions Graph
+## 📈 Yash Sharma’s GitHub Contribution Graph
 
-![GitHub Stats](https://gitmystat.vercel.app/api?username=Yash-Sharma7672)
+![GitHub Contribution Chart](https://github-contributions.vercel.app/Yash-Sharma7672.svg)
 
 
 ## 🌐 Connect With Me
