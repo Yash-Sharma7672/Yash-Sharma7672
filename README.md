@@ -8,7 +8,7 @@
           letter-spacing: 2px; 
           color: #1F3B6C; 
           margin-bottom: 15px;">
-  AWS Solution Architect | DevOps Enthusiast | Python Engineer
+  AWS Solution Architect || DevOps Enthusiast || Python Engineer
 </p>
 
 <p align="center">
