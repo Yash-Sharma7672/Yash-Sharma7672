@@ -77,7 +77,7 @@ Passionate about building reliable, secure, and high-performance systems that sc
   <a href="https://www.linkedin.com/in/yash-sharma-2aa849231" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mail.yashsharma07@email.com">
+  <a href="mailto:yashhsharma7672@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
