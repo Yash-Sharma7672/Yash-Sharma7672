@@ -7,12 +7,12 @@
 
 <!-- Professional Content -->
 <p align="center" style="font-size:18px; color:#0366D6; font-weight:500;">
-  Cloud Engineer | DevOps Enthusiast | Microservices Developer
+  AWS Solution Architect | DevOps Enthusiast | Python Engineer
 </p>
 
-<!-- Typing SVG Here -->
+<!-- Professional Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=6000&pause=2000&color=0366D6&center=true&vCenter=true&width=950&lines=Design+Scalable+Cloud+Infrastructure+%26+Automation+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=6000&pause=2000&color=2F4F4F&center=true&vCenter=true&width=950&lines=Resilient+•+Cost-Optimized+•+High-Performance;Designing+Scalable+•+Reliable+Cloud+Systems;Building+Efficient+•+High-Performance+Architectures" alt="Typing SVG" />
 </p>
 
 
