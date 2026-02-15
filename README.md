@@ -21,18 +21,29 @@ Passionate about building reliable, secure, and high-performance systems that sc
 ⚙️ Building scalable, reliable, and secure infrastructure   
 ⚙️ Automating workflows using Python and modern DevOps toolchains
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,javascript" />
+### 💻 Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform" />
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux,docker,kubernetes,terraform" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prometheus,grafana" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Networking-0052CC?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Monitoring
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,grafana" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 
