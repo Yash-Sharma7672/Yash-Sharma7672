@@ -8,9 +8,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=8000&pause=1500&color=0366D6&center=true&vCenter=true&width=950&lines=Design+Cloud+Architectures;DevOps+Engineering;Python+Developer" alt="Typing SVG" />
 </p>
-<!-- Typing SVG with subtle character spacing -->
+<!-- Typing SVG with subtle close character spacing -->
 <p align="center" style="margin-bottom: 40px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=8000&pause=1500&color=0366D6&center=true&vCenter=true&width=950&lines=D&nbsp;e&nbsp;s&nbsp;i&nbsp;g&nbsp;n&nbsp;C&nbsp;l&nbsp;o&nbsp;u&nbsp;d&nbsp;I&nbsp;n&nbsp;f&nbsp;r&nbsp;a&nbsp;s&nbsp;t&nbsp;r&nbsp;u&nbsp;c&nbsp;t&nbsp;u&nbsp;r&nbsp;e;D&nbsp;e&nbsp;v&nbsp;O&nbsp;p&nbsp;s&nbsp;E&nbsp;n&nbsp;g&nbsp;i&nbsp;n&nbsp;e&nbsp;e&nbsp;r&nbsp;i&nbsp;n&nbsp;g;P&nbsp;y&nbsp;t&nbsp;h&nbsp;o&nbsp;n&nbsp;D&nbsp;e&nbsp;v&nbsp;e&nbsp;l&nbsp;o&nbsp;p&nbsp;e&nbsp;r" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=8000&pause=1500&color=0366D6&center=true&vCenter=true&width=950&lines=Design Cloud Infrastructure;DevOps Engineering;Python Developer" alt="Typing SVG" />
 </p>
 
 <!-- Prominent separator line -->
