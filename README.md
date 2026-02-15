@@ -5,7 +5,7 @@
 <p align="center" 
    style="font-size: 20px; 
           font-weight: 600; 
-          letter-spacing: 1px; 
+          letter-spacing: 2px; 
           color: #1F3B6C; 
           margin-bottom: 15px;">
   AWS Solution Architect | DevOps Enthusiast | Python Engineer
